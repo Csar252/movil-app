@@ -10869,7 +10869,7 @@ header .profile-options-modal .profile-options-list li a i {
 }
 .products-list-container ul li .product-image img {
   width: 100%;
-  height: 140px;
+  height: 500px;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: center;
