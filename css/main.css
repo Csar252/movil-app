@@ -10742,7 +10742,12 @@ body {
   color: #495057;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 0;
 }
 
@@ -10750,7 +10755,8 @@ img {
   max-width: 100%;
 }
 
-a:hover, .btn-link:hover {
+a:hover,
+.btn-link:hover {
   text-decoration: none;
 }
 
@@ -10923,7 +10929,7 @@ header .profile-options-modal .profile-options-list li a i {
   font-size: 20px;
   color: #495057;
 }
-.products-list-container ul li .product-info .shop´ {
+.products-list-container ul li .product-info .shop {
   margin-bottom: 10px;
   font-size: 11px;
   color: #807e7e;
