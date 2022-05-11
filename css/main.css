@@ -10941,7 +10941,7 @@ header .avatar-container i {
 }
 .products-list-container ul li .product-info .stars i {
   font-size: 13px;
-  color: yellow;
+  color: #495057;
 }
 .products-list-container ul li .product-info .product-price {
   font-size: 18px;
